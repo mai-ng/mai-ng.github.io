@@ -29,7 +29,7 @@
         left: -21px;
     }
     .blog_slider_area, .instagram_area {
-        min-height: 516px;
+        min-height: 420px;
     }
     .footer_copyright .pull-right .navbar-nav li {
         margin-right: 18px;
@@ -68,7 +68,7 @@
     .blog_slider_area, .instagram_area {
         min-height: 420px;
     }
-    .contact_area .contact_from_area{ 
+    .contact_area .contact_from_area{
         margin-top: 40px;
     }
     .footer_copyright .pull-left{
@@ -135,7 +135,7 @@
     }
     .education_area .education_inner_area .education_item {
         width: 49%;
-        max-width: none; 
+        max-width: none;
     }
 }
 @media (max-width: 600px){
@@ -175,7 +175,7 @@
         width: 110%;
     }
     .education_area .education_inner_area .education_item:nth-child(2n)::after {
-         left: auto; 
+         left: auto;
     }
     .education_area .education_inner_area .education_item::after {
         display: none;
